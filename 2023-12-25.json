@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Pratt",
+  "age": 48,
+  "address": {
+    "street": "Agana Street",
+    "city": "Hawdaol",
+    "state": "KY",
+    "zip": "69855"
+  },
+  "contact": {
+    "phone": "(341) 570-8641",
+    "servicePhone": "800456895"
+  },
+  "birthday": "1976-05-14T21:51:06.251Z",
+  "ip": "141.177.239.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Ojwute ulno aramodfal wijti sam vusofdi wa gi weanahu tufa su oses segdatmih. Hokorin appo jajdivug cikriz rok uk vegew fad eprahe daf na do. Rijbemtab oceomavi ele onjul ze lizabuet edtufef laf sigfojo ge vavbi iwe dap.",
+    "bio": "Pokanu bizemepo raecbi bab ufoma inacamiw cagki uhotukol wufjebep edove gauz cok bewkalo cecrebi hi fa. Tupcuzpat rigzi dote nu cogfoj sebgip zulni munok ti vi suva mosule saeh siz ne noblaccof dalu. Buhi hum ciscuzu puj ukagijfis efu vofahub wojfioru hufi ugcut inoohoti voh boiti oruace oreeruef. Dembo oto ederub banelnar meedu bevhul aru sewwa jec lapun fer ko va lauj jiddurov luen havu."
+  },
+  "apiKey": "ad298a975e01c44920ed43dcd689543b8b29bd33b3ee456e584fda090f8f05ce",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
