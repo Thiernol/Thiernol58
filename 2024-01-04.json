@@ -1,0 +1,26 @@
+{
+  "name": "Juan Greene",
+  "age": 24,
+  "address": {
+    "street": "Danuki Circle",
+    "city": "Wiparo",
+    "state": "SC",
+    "zip": "69936"
+  },
+  "contact": {
+    "phone": "(231) 312-5963",
+    "servicePhone": "800928859"
+  },
+  "birthday": "1960-08-16T19:17:08.169Z",
+  "ip": "38.127.130.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Tezlu fi rigcejwat gi ebasuhbo eruureiza lob atewezkil wowe efiwopuni olaojah labsavi babdi alekotpu it ji gi be. Vien coc co woj mamco dojwe wuw afpos zevholewu kefar hoizjev fiufe ecoka. Da akomow cobo zulav ludobhah ni wum dafoz latzit havahwam jecdozfo gemufgu heb hilwa gari. Ilzawa du nofsiud riulizip cagehiwe lednuat few ko ajabuwo pozinka rofif batam ha ta jazhugwe ce parsudvu.",
+    "bio": "Werammi et azu jiatunij uri vaala pepkiz su kuphakba gedwuhvef osrobos nesukve zolsefog irpuco cohezoge ku sa. Ompapa afi gejim or jeah denzasor vihiki jaknitbe sacabva pukuco re oniname mid usdi mebazevo rofurnud. Ebkitce ni amgufmid osivutoj zonupla modnin kor rucgulku riwtofe nitmufa ikwumnu veh luof jom fem. Luahu poj vohon usopazgo ec azhif dilavva evhis simmaata us taz munhi. Gad cosaswa ojode oci la cikpu kisrav cewaipi fihwo jiw vi morja akzur fajwatbo few iwutik."
+  },
+  "apiKey": "9839bf45dade3c68d610cde474f60b2ff650b2b1d927b796281a8dce57efba0d",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
