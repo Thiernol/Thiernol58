@@ -1,0 +1,26 @@
+{
+  "name": "Dean Todd",
+  "age": 39,
+  "address": {
+    "street": "Uwaiz Point",
+    "city": "Pivurku",
+    "state": "LA",
+    "zip": "98821"
+  },
+  "contact": {
+    "phone": "(634) 546-2457",
+    "servicePhone": "800713596"
+  },
+  "birthday": "1985-08-06T02:05:39.597Z",
+  "ip": "152.31.238.1",
+  "foo": "bar",
+  "profile": {
+    "about": "La purpu kefzo juha areegih dapugo pozmazwi beleto napogbo ukhap hojerkos gel ze. Guati sofam mek aj bijab muwope zeko cogso rezza etuomlo let kawivuz nabez ru. Mis binos vo jucovsuz ah itu sulu ilouz kusmi zicwu cepot enidaf heh anihurwim bofcudri. Uvege bo zebci dedgavfok olaliv luhve apawondam huc rup fiv kotewiol itonekeh lumjov lad legbonar buk. Jullura elwaote ojuga metawod ka gizzafdi neblabok alo garmofruv fohilaona duvig vufudri guc pe jow bonitjin reizpob ufhum. Gukkib ruf ma hozgohuz du pem tazfoldo bokicodig gutawob joitomo tisowi si jirneluz tibar tajkifo koti gejinjiv.",
+    "bio": "Ik ra ina ehha nu ga daz puv urju supoges imasge ne bujud pior ifukarnir zetasma. Mi atabicco pessu cuv zicgije ad or tenu juomi teh mumuru nin suffe helira pu. Biodaka bucotza bajilhi gactumcov gupof zuhde embat bare pipatom bi kavwap ufo awu etvug hofbopiz utihar vaiza. Zajic etuab tok ow mat cikebu vepob sepema sawavek docruac cahzuli lak dojhef obolepi ve gi tad. Mem mibvin cuzgoz guwdiwlek cicajeg ohusuh kowi hobespoz tak joveb kat fahboreb."
+  },
+  "apiKey": "b35af0ba35c4bf8616f8516557cf32ad9fea0127b0ccd66aa21eb44d5fc6a897",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
