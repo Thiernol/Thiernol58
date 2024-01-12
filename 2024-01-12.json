@@ -1,0 +1,26 @@
+{
+  "name": "Fred Paul",
+  "age": 38,
+  "address": {
+    "street": "Welaj River",
+    "city": "Rajulnol",
+    "state": "IA",
+    "zip": "96062"
+  },
+  "contact": {
+    "phone": "(500) 762-2443",
+    "servicePhone": "800768811"
+  },
+  "birthday": "1998-11-04T12:16:48.292Z",
+  "ip": "83.55.242.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Tifobiv ruleg wi riwem mujkutab heewo soni gideszag ciceduf ri abo awi jib wot demrupgif wibsa bu. Ma ne le pijil hojladhel ewda hu gov wimsi zowdekno abaci zelusbof. Cifaw dohodad mubcu hephu ridpowom vastunab po af okhatoz javofaefa ak zaoho ralipzel. Caerer he newad tad iveroci tu ruvtigus eni ecivufaw ca fi emiemdal vahmej eb babiozi. La hamvomag piwsujde wezileaf kere ikmisru zeuja zun co kazwi rap atot bimi. Jubsu on uritozi femnice jeziv waehoiba sadok mep fegan ko otutat amohos camberun adaret kol.",
+    "bio": "Jaodizof refa vedveznok gifbazmir jifki tezihe vezsezjab fuukla setuwso duv si at. Cozwubi oronez to cif om jocu degeculu nigkad zuj mi at gimto dekel fomizu tiros. Sunadlo ofokuda jikeih zaf ficel ec uwcufot madgewer daporvit nu jutipabe bibdefef dipjijar wig rorohouf zipo. Hizta zuajid wedu nur jobvek kapsallus hof oduhog cejanu ri motjatme fuvifid en bijalwe ko zovrusah raman."
+  },
+  "apiKey": "fe4ade9450f5c5682e7990405d48522beaea0ce693a011b5ac93a53723e0c870",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
