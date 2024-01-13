@@ -1,0 +1,26 @@
+{
+  "name": "Alex Haynes",
+  "age": 23,
+  "address": {
+    "street": "Tebkok Terrace",
+    "city": "Wirponet",
+    "state": "VA",
+    "zip": "51210"
+  },
+  "contact": {
+    "phone": "(477) 368-6642",
+    "servicePhone": "800931426"
+  },
+  "birthday": "2005-01-03T14:11:36.104Z",
+  "ip": "243.103.206.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Porari av algum bobgo hemgevvu umuzipboj ca sibsekza buhzew zahnu wo tamrobga otenejabe vemtepupe. Bojnu legowze to dockeg cajaz buthilfe wiwomo no rijuh obe lojritnu bofsinpo rihfegeb kevo kucimos pi ciwmezude. Fi fimizke uhrejow gu sewu ivome sercahki up puswakuf juven umbo ahe bewed ocu ajoal da iw. Daveso tonna zohodsib dan iri mon awvifa onacdoc tej woburovi awle fajetguv vez ojeefvuk bowe. Pip wuut muc pe esuhugo ol ip pur sa lemet gad jatamme ef dizjuzigu seof ka gu ema.",
+    "bio": "Ovhontis aciwiozu lirojow rirgimac wel badfasbew fudeho da lekvad zaf ruijiju zial ehuwefi. Siger watwi ece as sonolici de zu nabhelila fug sa onauno bi buhirrep lul ese muonhe obikesuf mu. Sopep buidpih emuonetij tacsac tusuhmi eftoc ked weso anujen va re retruszo. Ihat ahisuf lud arvek ha aroven gabme ladkapir fuv hug kihwug dak afelin dip imha itafavi. Ammu orhujef lozrek kijbov hemana fug rikjukza bo gafab owi fipuho imlenu sejmaf dir taw. Ur fe rom ve ve wek wij roelonen takmataf co uda mininij ib kuj kubvaoc ririfo adpur pub. Wi utucco lovhobmid hari zopramneg oci dil kihnah mef zi bel oruve ovfi nogsijra fatepgol cenu."
+  },
+  "apiKey": "2c7d8333bb98a1e9937e99d0252bd4e13942571f1d22324787c4edb762232886",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
