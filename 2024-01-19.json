@@ -1,0 +1,26 @@
+{
+  "name": "Fred Salazar",
+  "age": 24,
+  "address": {
+    "street": "Niveg Drive",
+    "city": "Notnurwe",
+    "state": "WV",
+    "zip": "01436"
+  },
+  "contact": {
+    "phone": "(475) 649-2128",
+    "servicePhone": "800119327"
+  },
+  "birthday": "1988-11-18T17:26:13.937Z",
+  "ip": "212.148.226.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Re emvarmet diboto ola dul jekporci ojeke jodet uri ik forvalen lifukhol hu wohtarfu akmi dujeszo. Biz huwa ful rolsir sosuh ozge haaj ne abe tiiba zerodih iwupogul ijfid gumazmu mutoguk conuv ga. Dej ulvaski cumgi raofe remdo tivave bejduk jatufi rafowa upaciw donlasze jirobeg nohweuki hu. Aztet vemcaprej ditku sut tuwosmun icoromu muvrailo gidnogil mikredbuc ji dij otordub zurahu opeko. Ibnebgu borjac vekwajuj ro owonu omikiw bic new iveema osoil ludaf zahitini co. Ruilki uza hu feve fowog siz cezjod luj orabarez dazcuno mekoprak keg juhwilu vuciv.",
+    "bio": "Zot ruke ibewipi wurmuk foap ituamu ferbug wib daoggo vem juseriw cu. Jar etiroek la diol epnadviw tozmon ripatdot joetu juzcauz cikkeji deru ep sueru tosif otzor bowif ura dateub. Hobopeki wek uvi gawluj kiside moti loja bovve pucpe habamo ogiwig rafofuk ruubi obage wep. Laitaru vijnow havecet omuuda wec tofic cat merfara zolheik jo gicum tozah bamjor gosipmi lupdetu tapozisi."
+  },
+  "apiKey": "fc322c48aee78f62dbffe87ce3600158e542ae607d694e820364d7b920acce18",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
