@@ -1,0 +1,26 @@
+{
+  "name": "Ella Munoz",
+  "age": 23,
+  "address": {
+    "street": "Guzug Glen",
+    "city": "Ubicawel",
+    "state": "PA",
+    "zip": "03660"
+  },
+  "contact": {
+    "phone": "(841) 845-1645",
+    "servicePhone": "800994352"
+  },
+  "birthday": "1998-04-29T00:05:49.319Z",
+  "ip": "231.125.108.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju hozren pijho nigi ikse nific hovbulbuf gikzirid di nowobgif pu ihonimuf fuf ova hijezikog dolmaga ci omda. Wetu neap eropaco wageb ahwev citvu totaaj poikmim rodole mujufni zigbi mel huf gov pu adizuc. Abret hooluina ledcoiku mehge vuktitiz tem kespi ib peripizag jubrun otbejfa vofog amuojo.",
+    "bio": "Uzumcud dad zolo fe if jotjunic dalmafmu esa men asamob uh uruesoule. Hig bal ac suesute ogopuju mi li ige akale ev edrulil hera paw vucepewo. Vag rur iviccib etelnon pulhij zowjesu logufu eri fe udfadne koomoko socine zocgun."
+  },
+  "apiKey": "2d1d83441edd897e9fd0a7ad972b01cccfbeb7420f8fe4d7b1ae81df94722f89",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
