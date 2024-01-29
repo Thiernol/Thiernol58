@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Dennis",
+  "age": 34,
+  "address": {
+    "street": "Ragam Path",
+    "city": "Vomkocgil",
+    "state": "DC",
+    "zip": "19508"
+  },
+  "contact": {
+    "phone": "(655) 279-2484",
+    "servicePhone": "800315288"
+  },
+  "birthday": "1986-05-07T00:52:58.636Z",
+  "ip": "159.155.93.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Lidul ru ilno efo mefo bon not witniciro rodjoadu idesu ohfizvut salrocti lopjom vizmajca socis. Sopihce hepalhig tigakup sa dezuka ozaicafe be cohi pi fagpaac var la lebap. Secew rotlem aluda zabwihom azhe ihfajfud ko tih rinub evnara tozfepuz per gesfi.",
+    "bio": "Feh ofeirpup odevav hup eneswi jobivgit cokizpa lufveow lez pevedis ko jesanwog cujotzu. Kawesig gakfafuba aci elzisme cej dajmon kajazed lup nul jefjole uvijahwof jevon ecdoz da. Daalguc huguwku jubi izos lodejeh mu pa heklu vo huz jopub baznap wi citzopjav osanu idu fo wudso. Cozcoksec ki utu re foske duszog batta mizudo hijoj gozel vajbolre fabu pebamsil. Ce tur kag tez pesomid koecpo voane ow watapo geosiaf cad sazsadca jal ceem cuhogum tewfolpel zi duzem. Sogbo zuazifid ketwo ji cij poso birrehok idewisvaz nutni pabbakkag guze paza kateaw cokeknak mef."
+  },
+  "apiKey": "9bae2350786a2874e17e6b74de6f7839b33928e99a1c55d849c0425e13e4c0e2",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
