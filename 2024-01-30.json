@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Rivera",
+  "age": 59,
+  "address": {
+    "street": "Metit Turnpike",
+    "city": "Godufliw",
+    "state": "MO",
+    "zip": "21573"
+  },
+  "contact": {
+    "phone": "(689) 670-3137",
+    "servicePhone": "800257649"
+  },
+  "birthday": "1985-04-20T22:14:34.730Z",
+  "ip": "185.33.6.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Zod bi jodrop bi gune lighepuh icuka gi munceak obizufnel ri doti zozu osisap lekilivu. Vegoz lolufa cusidac giv otuba napvu ojalihi suen mekkoddol ro ogu ovponuc tejec. Putenfi liwo haekolas ac sojtuc ci dejas serog ipuhu ezfactov murezwe ha cepo sazdad lo zighaife opihohbod koselme.",
+    "bio": "Wihuum inmerja hotpa cemgumbor nutal gejobfil ka rec toijimoc enofu hecde ciwmi wanlu era afvikvut sispuwvo ne itzeoh. Nuwecsi paunu budi jenla but wicpijuc zahatet tohmol cotve zoul dom cev alluc. Kidhafu wibapo kuma lun ri kaz jefeiwi mecidre co zemic faapza feforih."
+  },
+  "apiKey": "3dbbe898f3b4121d0dcab4b96dc7faece0bc6c94a4b61fc14638b16d1e180a4b",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
