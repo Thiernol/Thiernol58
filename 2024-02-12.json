@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Roberson",
+  "age": 52,
+  "address": {
+    "street": "Harra Court",
+    "city": "Agotiwwo",
+    "state": "KS",
+    "zip": "01701"
+  },
+  "contact": {
+    "phone": "(613) 567-5696",
+    "servicePhone": "800973335"
+  },
+  "birthday": "1986-07-25T16:38:06.118Z",
+  "ip": "113.131.73.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Ebiof kofuas nahvi wiwigje lerut eti cocemdeg iwe kipvavos guca nimesoif ari en. Wucle wifmamhe ehpaw pob pof rulaw mi upjur bo et dud hib je zirukjam samfajno. Ovomiri kakde ukpet uduic bafipho taukfo ufulam muz timah ilup jigkoriv paujemi ow jafzunud uji tepmewked es ofovalul.",
+    "bio": "Mo la pibitje usa kes se ad rigcatmi tu puksoim nov zon dakpe hazivenu pendakup wavecojol juti zalpevo. Wuvevha ziz batzudpe cutjuezi fe motfi okoco ut jogcudol ohijomah maj guktukol dok lov. Ickawo furwas zol watpewa ad viwug ve tegobij jufzejgah rocal vijpaz huc gubovhi. Ri avmultap ile adimetkuj sabjukgim mi tapanjan wip dot ilzuzo pivo vic wan bide. Nupovev ofuzepo dusofeit no nuso vesib wishe mitale ba do ku gencunib wugapse puffoho pemes negicnij tifgujwub. Iraeta arakihez zenes hikoj mofid teluk uzecik ir liicesi oda egose non ec wewuzuz."
+  },
+  "apiKey": "8ebebc68f3b20af9a3dabc77eb929ca04f0e91f8d36cdc06aa081815dd23930a",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
