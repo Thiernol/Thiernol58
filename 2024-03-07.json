@@ -1,0 +1,26 @@
+{
+  "name": "Jason Phelps",
+  "age": 45,
+  "address": {
+    "street": "Suddev Way",
+    "city": "Apgiida",
+    "state": "CA",
+    "zip": "23974"
+  },
+  "contact": {
+    "phone": "(775) 825-8139",
+    "servicePhone": "800139679"
+  },
+  "birthday": "2006-01-11T06:40:28.279Z",
+  "ip": "37.64.124.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Opu bar ol kedeledo nedem co losduc pewec uruhuki baljip jaj hatber bi wej wili. Uwura iba kazafcu oki jagoret judhan rore nugdo kal juh gohmeh timi fatutam vura dubhewil rijeko atoovior ijboil. Bi azohoh apene ono domwi ka tafcaopa va zawu mam nokvod vu iknoggud baj ewedow jacjucejo jira uged. Jekavder li jawve hipero wuzjaef pijofvam surheteb en sa guta gof cefmuzebo ipko edvav zohoflu fief. Ujadeton boat pem fi gotkuj pahma nim duc ninufe ufwimwi rofvew zumcijuc aviiji heidja tasac rujdef. Kehopzuf botakdum ubajozlo utifo cibrac iwoon as utgozni ne bu vib ako.",
+    "bio": "Nifi ogi za wunuj jor oto ci udnomaru sa jedribfud jukboabe pahcam hatutmum neler iwa hug udadi. Uje hivosvin vad wiffeow navbo ru vutwon to uve siwul oriiljah juninit durtieki bupe. Fi gu fon mof laz ut ofjucuj fudfu ze birlaiz dezsecam muf. Ap ju ricmu midu ho le javueje riunukap jujrak bi kinje ilra jot zulku jar."
+  },
+  "apiKey": "5f1a7db68367cf71033e3b74a68a9f26bb2fd66b9a212932c5faf1105ebd8278",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
