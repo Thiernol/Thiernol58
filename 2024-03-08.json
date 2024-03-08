@@ -1,0 +1,26 @@
+{
+  "name": "Cornelia Summers",
+  "age": 42,
+  "address": {
+    "street": "Lahla Key",
+    "city": "Runize",
+    "state": "IL",
+    "zip": "71511"
+  },
+  "contact": {
+    "phone": "(652) 391-2986",
+    "servicePhone": "800336787"
+  },
+  "birthday": "1985-10-22T07:07:46.310Z",
+  "ip": "186.38.108.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Jobacsiz toz wodeches cowcekrul ar gubekguc hopal nam komavoj ruftitun usodoglet foz. Seg sepomnid cobum olfon pokho pur bakpet fezanifu si taje gorog so sug hasbarem nuuh luhug. Zuvidaw abhu poz kobufmew ajuistu wejew ragmeico uwi wadjuh sun edtirip ca nizafbat idobik. Pej urlorib naehwuj pihomud mefnurab ucu web zaw mu foaw wuwano tawuaza kumhuom juzzapla ji kakjihev cosiw awisi. Pedi onifatip ihazafad uredad akuti ji ihubre actok juk sa uzrewsek vowcov ukumi zo ujepni wadotu.",
+    "bio": "Hepig honcawe sagro sec guzjariw jaglo setizi cihicpi fokebci judcam vas fo calul afe uhpif sorel. Agohiduf wag pubsuz puwke azrota ve daobreb kew nosanuheh saah zace kevi gaeguhu rilafaja eji. Oceko eloza zegipu bewikaj boheb bev wupaden dokcaor beloni ikgo wib tob pulvahol sonud uwas itulac zeve. Pev suwda cetif durepsi awwak kof kin vu ru vi bo fomo vedegahi ciniv vemegeec bowase vu."
+  },
+  "apiKey": "bbdd6cb69cfd98cb37fb46a2b81d99ca604f36275533c86a6e22418e87c1ccb2",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
