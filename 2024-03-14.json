@@ -1,0 +1,26 @@
+{
+  "name": "Mike Colon",
+  "age": 30,
+  "address": {
+    "street": "Siset Key",
+    "city": "Rosjacaw",
+    "state": "AL",
+    "zip": "15961"
+  },
+  "contact": {
+    "phone": "(337) 384-7724",
+    "servicePhone": "800895761"
+  },
+  "birthday": "1959-12-08T09:43:32.328Z",
+  "ip": "122.34.158.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Ot hihgulada paapebi mam cazado purcuse cet nito rippelwon gafeh terwin gis dateh jo. Tecan luc ru lod vofovaw vodus etahaiku rinnuv hahor upvirow uluorte kojul. Gubwefcag vebetaj ragni zukwumota wuzjivge wamisele epgoz isibez hirhob vu jesgoime pugo fi lun.",
+    "bio": "Wuppu korfumepa hugdaw voz laf tefef bu cifikguj ka ag juvegon tawa ra cuduz hi oni. Ri divboboj ociloh tamam hueg hozuv zevwoh naznim lorudi iwinapon femisru lunzil nozidein viowatet gefget. Piwujem rev fuehizap itase ecmop moc kagcow lohjec et cec vijocvuj ru boc do omu. Uloiwote ukfioha civid ti bikiha zavtitwi wimob ri uwunoh uke timjesbo tih evamobjaz bufoj boor."
+  },
+  "apiKey": "b48a1d4459c5d52086cf70710e33a4faa8aa8406f06dd7233c8ac3f50ad6e0c1",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
