@@ -1,0 +1,26 @@
+{
+  "name": "Francis Turner",
+  "age": 28,
+  "address": {
+    "street": "Karvu Way",
+    "city": "Ihlodzi",
+    "state": "NY",
+    "zip": "82691"
+  },
+  "contact": {
+    "phone": "(239) 736-1240",
+    "servicePhone": "800185488"
+  },
+  "birthday": "1982-05-20T14:22:26.500Z",
+  "ip": "103.126.215.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Osomeg gulek eto ow va ilaedo jojpi veh pe uri fohvuf tun fu duvip wif nezinez zeapiz doeve. Wi waszo ru vuug dekegcas mek fehebo bilabbe birfouli dugen adadzap calre wom virwietu. Cu zakbu tabi hevif ipiub sekputo guke ug tebuctec witego fevjaor naclot hokdumo hadhe duc vozejvil vof.",
+    "bio": "Beh igaujo ma fij huru kaho parzo gu uk wa vag kircu raubi. Burweh ikbik et riwome pogto vuow rolril nitiguge ejobadel eb merubiner ugguh bimic bafowra du ug otfoin goczah. Civtim keklaw rar zolikpod luivebu sesar re duvob tehbomej espees sefvi suthazij rigcasaf rivdiz. Incotav vegtabor hagworim aw jaak sohdafi seha su zefujum zovub di wunpe me. Gaetujal esehez ofzoj fesob uwo oki mamnon afa fevli kippa zew rej semto lodusge pur luguvher poculza jup."
+  },
+  "apiKey": "c59b5bd694937f777773e76ec4b00589734b62428ec2ae97a1808da729de55c6",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
