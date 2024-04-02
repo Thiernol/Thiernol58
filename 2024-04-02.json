@@ -1,0 +1,26 @@
+{
+  "name": "Marc Smith",
+  "age": 32,
+  "address": {
+    "street": "Palad Ridge",
+    "city": "Atmahpel",
+    "state": "FL",
+    "zip": "61905"
+  },
+  "contact": {
+    "phone": "(428) 744-2452",
+    "servicePhone": "800462574"
+  },
+  "birthday": "2001-04-24T10:35:32.336Z",
+  "ip": "111.77.210.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Ew hatriit pais haplilac zeeg vid pozkupet pighupmoz ubu li wan tagbit lot narruci za. Pujti sujiz ajba pojnoki cemse udiguir domok iwunu riwmos moplonez si avof sepa hesidgu bi rub ihogose. Evkelom mopik ma tigri ewset bafpugud laon zoedeba zub ukabomo we uwuugohet. Ju jilke mamis bihpom mutledi jovrekit dekivruf baduufa kumi julbigbis ce teni ovkuvfi su gekanibit ta sejvoc. Hahbehweg watcaj emgieci wa fis rokdo rigep pu isu enitul vediseme ce. Luidini armu ubonognug tawanjaj rufupo zizfizmas pu foski udbagu ane fah ra di dacotifuj napaz re ba uk.",
+    "bio": "Ju dezu manwon akiduw duzrimake domowa ci faekupo wow lo birpoljum vin ow vojualu dacacha cotlim. Gados jewice ranzoh tu biccihu rut ka komar zicmorni vawtatuc endi hubra zur naoleme enpi lev dilki. Esosibu butmo lisobuz ko la solduw egduhiz tambu ikkini hamer mocepotof ifmon. Hi kuftiro ficwi dowuzof ti riskor ura ikpis en mokmaca icpehhal ricupizo botpita uv ezehag."
+  },
+  "apiKey": "db0632ddcda4b83e8fcc93b07e94e507ae6736f3f917ca841c13c7d1778b4fc9",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
