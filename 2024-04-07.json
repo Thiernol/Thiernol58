@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Little",
+  "age": 23,
+  "address": {
+    "street": "Egousu Turnpike",
+    "city": "Fafuwzu",
+    "state": "GA",
+    "zip": "42517"
+  },
+  "contact": {
+    "phone": "(538) 425-7271",
+    "servicePhone": "800531857"
+  },
+  "birthday": "2003-08-25T04:39:21.464Z",
+  "ip": "49.185.71.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Suro je co kenze kegboto belemul wemnusu os gam akuvo sowcu alwetnel ofunevra bobzole erbuwi. Na vagesraf ja gija korob mizfucnu wajogat gezat ibivocu hupam musadnup gimaz okfihben. Zupata moawa piw do jujitpiw sedecu ahsab ovagijec ufu izgono okuuto pupodo is mitcub.",
+    "bio": "No luv penijla kiwa miza vok zolbodaca vij tiv vizjosu ehsoh kuvjorlaf aniteho doicaik. Azabop ig nifiho dohfu tiem pemow hazan rinene souriga pojewnu gutalu fab. Cegev aru jahcit uhcaoso ce zu liih ufdo lu iru wujugurut roup bicakso po puog paefso ojaovzij akobakute."
+  },
+  "apiKey": "4669338422025e8d3d7aae82aa7504ee8fbf8bfae73327d2023ccfb62ec4e41a",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
